@@ -1,4 +1,4 @@
-Reflecting on Challenges and Committing to Better Practices for Project 2
+# Reflecting on Challenges and Committing to Better Practices for Project 2
 
 One of the primary challenges when working with someone else's project is dealing with dependencies. Coordinating and configuring these dependencies to match the repository's requirements was a time-consuming and frustrating task. When we try to run a project just for testing, it really waste lots of time to solve the dependency problems. During the process of solving dependency installation, version conflicts and missing packages were common issues that required extensive troubleshooting.
 
@@ -17,5 +17,7 @@ Documentation will be a priority for Project 2. We will commit to documenting my
 Regular Maintenance:
 Recognizing the importance of codebase maintenance, I will make it a practice to regularly update my code during Project 2. This proactive approach will help prevent compatibility issues with new libraries and frameworks, ensuring that the code remains up to date and accessible.
 
+Effective Error Handling:
+In Project 2, I will implement more robust error handling mechanisms. This includes providing informative error messages and clear steps for debugging common issues. Improved error handling will expedite problem identification and resolution, reducing frustration and wasted time.
 Effective Error Handling:
 In Project 2, I will implement more robust error handling mechanisms. This includes providing informative error messages and clear steps for debugging common issues. Improved error handling will expedite problem identification and resolution, reducing frustration and wasted time.

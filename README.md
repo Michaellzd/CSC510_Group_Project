@@ -3,8 +3,11 @@
 ## Group Members(Group No:30):
 
 Jack Hou	
+
 Zhendong Lu	
-Feng Wang,
+
+Feng Wang
+
 Enxi Zhang
 
 
